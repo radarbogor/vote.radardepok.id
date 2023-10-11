@@ -4,7 +4,7 @@
     <div class="container text-md-left">
       <div class="row text-md-left pt-3">
         <div class="col-md-6">
-          <img src="{{ asset('img/logo-radar-krwg.png') }}" alt="logo radar bogor" class="mb-2" style="width: 250px">
+          <img src="{{ asset('img/dpkLogo.png') }}" alt="logo radar bogor" class="mb-2" style="width: 250px">
           <hr>
           <h5>Graha Pena Bogor</h5>
           <div class="d-flex">
