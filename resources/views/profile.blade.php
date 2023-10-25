@@ -22,10 +22,10 @@
                         <h1 class="card-title mb-0 fw-bold mb-3 mb-md-0 text-uppercase">{{ $data_item->vote_name }}</h1>
                         <hr class="mt-1 mb-3 d-none d-md-block">
                         <p class="mb-1 fw-bold">{{ $data_item->vote_position }}</p>
-                        <p class="fw-bold">{!! $data_item->description !!}</p>
                     </div>
                 </div>
             </div>
+            <p class="fw-bold">{!! $data_item->description !!}</p>
 
             @if ($data_item->voteProfile)
 
