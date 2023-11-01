@@ -11,7 +11,7 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-    <link rel="icon" type="image/png" sizes="96x96" href="{{ asset('/img/favicon-96x96.png') }}">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ asset('/img/dpkFavicon.png') }}">
     <title>Polling Radar Depok | {{ $title }}</title>
   </head>
 
