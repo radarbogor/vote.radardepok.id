@@ -14,14 +14,15 @@
     <!-- //Summernote CSS - CDN Link -->
 
     {{-- Google Analityc --}}
-    {{-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-NYQDKNF92Z"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1CW2S5Q9G6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-NYQDKNF92Z');
-    </script> --}}
+      gtag('config', 'G-1CW2S5Q9G6');
+    </script>
 
     {{-- Fancy Box --}}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.css">
