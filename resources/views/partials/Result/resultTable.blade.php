@@ -41,7 +41,7 @@
                         </div>
                     </td>
                     <td>
-                        <p class="mb-0">{{ round($total_vote) }}% | {{ $tv->response }} Suara</p>
+                        <p class="mb-0">{{ number_format($total_vote, 2) }}% | {{ $tv->response }} Suara</p>
                     </td>
                 </tr>
             @endforeach

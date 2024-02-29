@@ -31,7 +31,7 @@
                         $total_vote = $item->response;
                     }
                 @endphp
-                <p class="text-primary mb-2">{{ round($total_vote) }}% Suara</p>
+                <p class="text-primary mb-2">{{ number_format($total_vote, 2) }}% Suara</p>
                 <div class="progress">
                     {{-- Validasi Login Role Admin --}}
                     @if ($total_vote == 0)
